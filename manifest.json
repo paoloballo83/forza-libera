@@ -1,0 +1,24 @@
+{
+  "name": "ForzaLibera",
+  "short_name": "ForzaLibera",
+  "description": "Allenamento corpo libero - fasce muscolari e schede complete",
+  "start_url": "/forza-libera/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#FF4500",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
